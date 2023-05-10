@@ -5,20 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9622fa78-bdb2-4812-9070-0fdaf802c61c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/cw/tests/Day14/C01_Annotations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/cw/tests/Day14/C02_Priority.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/cw/tests/Day14/C03_DependsOn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/cw/tests/Day14/C04_Enabled.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/cw/tests/Day14/C05_TimeOut.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/cw/tests/Day14/C06_Description.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/cw/tests/Day14/C07_Assertions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/cw/tests/Day14/C08_HardSoftAssertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_RunningClass.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firstTestNG.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/cw/tests/Day15/C01_Parameters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,24 +53,7 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.C07_Assertions">
-    <configuration name="C02_Priority" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestNGCla" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cw.tests.Day14.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="cw.tests.Day14" />
-      <option name="MAIN_CLASS_NAME" value="cw.tests.Day14.C02_Priority" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.C:/Users/yusuf/IdeaProjects/TestNGCla/01_RunningClass.xml">
     <configuration name="C03_DependsOn" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNGCla" />
       <extension name="coverage">
@@ -150,13 +123,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C:/Users/yusuf/IdeaProjects/TestNGCla/01_RunningClass.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGCla" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/01_RunningClass.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/yusuf/IdeaProjects/TestNGCla/01_RunningClass.xml" />
         <item itemvalue="TestNG.C07_Assertions" />
         <item itemvalue="TestNG.C03_DependsOn.test01" />
         <item itemvalue="TestNG.C05_TimeOut" />
         <item itemvalue="TestNG.C03_DependsOn" />
-        <item itemvalue="TestNG.C02_Priority" />
       </list>
     </recent_temporary>
   </component>
