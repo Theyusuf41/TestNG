@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Suite">
+    
+    <test name="Test">
+        <parameter name="isim" value="Yusuf"></parameter>
+        <classes>
+            <class name="cw.tests.Day17.C01_Parameters"></class>
+        </classes>
+    </test>
+
+
+</suite>
