@@ -5,17 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9622fa78-bdb2-4812-9070-0fdaf802c61c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/06_Parameters.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_MultiParameters.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_BrowserParameter.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Listener.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/cw/tests/Day17/C01_Parameters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/cw/tests/Day17/C02_ParametersUsage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/cw/tests/Day18/C01_DataProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/cw/tests/Day19/C01_Listener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/cw/tests/Day19/C02_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/cw/tests/Day19/C03_AmazonLoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/cw/tests/Day19/C04_PageClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_ParalellExecution.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/cw/tests/Days20/C01_DriverClas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/cw/tests/Days20/C02_ParallelExecution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/cw/tests/Days20/C03_DataProviderParallel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/cw/utilities/Driver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +55,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG.C01_DataProvider">
+  <component name="RunManager" selected="TestNG.C:/Users/yusuf/IdeaProjects/TestNGCla/09_ParalellExecution.xml">
     <configuration name="C01_DataProvider" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNGCla" />
       <extension name="coverage">
@@ -79,30 +73,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/Users/yusuf/IdeaProjects/TestNGCla/04_RunningMethods.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C02_ParallelExecution" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNGCla" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/04_RunningMethods.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cw.tests.Days20.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cw.tests.Days20" />
+      <option name="MAIN_CLASS_NAME" value="cw.tests.Days20.C02_ParallelExecution" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/Users/yusuf/IdeaProjects/TestNGCla/06_Parameters.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="C02_ParallelExecution.test02" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNGCla" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/06_Parameters.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C:/Users/yusuf/IdeaProjects/TestNGCla/07_MultiParameters.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestNGCla" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/07_MultiParameters.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cw.tests.Days20.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cw.tests.Days20" />
+      <option name="MAIN_CLASS_NAME" value="cw.tests.Days20.C02_ParallelExecution" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -119,13 +118,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C:/Users/yusuf/IdeaProjects/TestNGCla/09_ParalellExecution.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGCla" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/09_ParalellExecution.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/yusuf/IdeaProjects/TestNGCla/09_ParalellExecution.xml" />
+        <item itemvalue="TestNG.C02_ParallelExecution" />
+        <item itemvalue="TestNG.C02_ParallelExecution.test02" />
         <item itemvalue="TestNG.C01_DataProvider" />
         <item itemvalue="TestNG.C:/Users/yusuf/IdeaProjects/TestNGCla/08_BrowserParameter.xml" />
-        <item itemvalue="TestNG.C:/Users/yusuf/IdeaProjects/TestNGCla/07_MultiParameters.xml" />
-        <item itemvalue="TestNG.C:/Users/yusuf/IdeaProjects/TestNGCla/06_Parameters.xml" />
-        <item itemvalue="TestNG.C:/Users/yusuf/IdeaProjects/TestNGCla/04_RunningMethods.xml" />
       </list>
     </recent_temporary>
   </component>
